@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015934374180",
+    "firebase_url": "https://quick-medicare.firebaseio.com",
+    "project_id": "quick-medicare",
+    "storage_bucket": "quick-medicare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015934374180:android:22599991bed894e08263b1",
+        "android_client_info": {
+          "package_name": "com.ayush.quick_medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015934374180-d9bbgqm56hkg7f8dk250vgs2m6cdgdjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd7atyDPWG3hqab-I-KjFKQHXYx0SAkBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015934374180-d9bbgqm56hkg7f8dk250vgs2m6cdgdjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
